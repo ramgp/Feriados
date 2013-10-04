@@ -64,7 +64,7 @@ implements HolidayListFragment.Callbacks {
             // adding or replacing the detail fragment using a
             // fragment transaction.
             Bundle arguments = new Bundle();
-            arguments.putString(HolidayDetailFragment.ARG_ITEM_ID, id);
+            arguments.putString(HolidayDetailFragment.HOLIDAY_DATE, id);
             HolidayDetailFragment fragment = new HolidayDetailFragment();
             fragment.setArguments(arguments);
             getSupportFragmentManager().beginTransaction()
@@ -75,7 +75,7 @@ implements HolidayListFragment.Callbacks {
             // In single-pane mode, simply start the detail activity
             // for the selected item ID.
             Intent detailIntent = new Intent(this, HolidayDetailActivity.class);
-            detailIntent.putExtra(HolidayDetailFragment.ARG_ITEM_ID, id);
+            detailIntent.putExtra(HolidayDetailFragment.HOLIDAY_DATE, id);
             startActivity(detailIntent);
         }
     }

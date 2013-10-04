@@ -1,7 +1,5 @@
 package com.github.feriados.models;
 
-import java.util.Date;
-
 /**
  * Created with IntelliJ IDEA.
  * User: Ramon
