@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="month_01">@color/google_blue</color>
+    <color name="month_02">@color/google_red</color>
+    <color name="month_03">@color/google_yellow</color>
+    <color name="month_04">@color/google_blue</color>
+    <color name="month_05">@color/google_green</color>
+    <color name="month_06">@color/google_red</color>
+    <color name="month_07">@color/google_yellow</color>
+    <color name="month_08">@color/google_blue</color>
+    <color name="month_09">@color/google_green</color>
+    <color name="month_10">@color/google_yellow</color>
+    <color name="month_11">@color/google_red</color>
+    <color name="month_12">@color/google_green</color>
+
+    <!--<color name="month_01">#cbd4e1</color>-->
+    <!--<color name="month_02">#dd2222</color>-->
+    <!--<color name="month_03">#8ac90c</color>-->
+    <!--<color name="month_04">#7788aa</color>-->
+    <!--<color name="month_05">#f26565</color>-->
+    <!--<color name="month_06">#e67b09</color>-->
+    <!--<color name="month_07">#d4b3c2</color>-->
+    <!--<color name="month_08">#d4b3c2</color>-->
+    <!--<color name="month_09">#d4b3c2</color>-->
+    <!--<color name="month_10">#d4b3c2</color>-->
+    <!--<color name="month_11">#d4b3c2</color>-->
+    <!--<color name="month_12">#488ccc</color>-->
+
+    <color name="google_yellow">#ffffb803</color>
+    <color name="google_red">#ffd4422d</color>
+    <color name="google_blue">#ff186ded</color>
+    <color name="google_green">#ff039e5c</color>
+</resources>

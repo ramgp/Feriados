@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Feriados</string>
+    <string name="title_holiday_detail">Detalles del Feriado</string>
+    <string name="holiday_description">Descripción del Feriado</string>
+
+</resources>
